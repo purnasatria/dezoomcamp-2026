@@ -1,0 +1,2 @@
+- https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/02-workflow-orchestration#21-introduction-to-workflow-orchestration
+- https://www.youtube.com/playlist?list=PLEK3H8YwZn1p-pCYj46rRhA0HcdXXxzzP
