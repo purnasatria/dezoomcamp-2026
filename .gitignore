@@ -12,3 +12,8 @@ wheels/
 #data
 *.parquet
 *.csv
+*.csv.gz
+*.tar.gz
+
+# Data directory
+data/

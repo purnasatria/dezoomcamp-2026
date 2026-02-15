@@ -1,1 +1,4 @@
 google-cloud-storage>=2.0.0
+duckdb
+dbt-duckdb
+requests
