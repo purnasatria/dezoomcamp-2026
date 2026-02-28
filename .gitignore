@@ -14,6 +14,12 @@ wheels/
 *.csv
 *.csv.gz
 *.tar.gz
+*.db
 
 # Data directory
 data/
+
+.bruin.yml
+logs/runs
+logs/*.log
+*.py[cod]
